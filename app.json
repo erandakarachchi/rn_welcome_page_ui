@@ -1,0 +1,12 @@
+{
+  "name": "onboard_ui",
+  "displayName": "onboard_ui",
+  "expo": {
+    "name": "onboard_ui",
+    "slug": "onboard_ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
